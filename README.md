@@ -21,8 +21,6 @@ YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/
 ```
 
 
-<div align="center">
-    <h2> Showof </h2>
-    <h3></h3>
-</div>
+note that i stole more than half of it from https://github.com/Sqydev/ be sure to check them out.
+
 
