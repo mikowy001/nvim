@@ -60,6 +60,7 @@
 
 	-- Load Comment
 		spec("Plugins.comment")
+		spec("Plugins.aerial")
 
 
 -- "Launch" lazy
@@ -74,3 +75,33 @@
 
 -- NOTE: Set scheme in settings.lua
 	vim.cmd.colorscheme(vim.g.Theme)
+
+local highlight_groups = {
+    "Normal",
+    "NormalNC",
+    "Comment",
+    "Constant",
+    "Special",
+    "Identifier",
+    "Statement",
+    "PreProc",
+    "Type",
+    "Underlined",
+    "Todo",
+    "String",
+    "Function",
+    "Conditional",
+    "Repeat",
+    "Operator",
+    "Structure",
+    "LineNr",
+    "NonText",
+    "SignColumn",
+    "CursorLine",
+    "CursorLineNr",
+    "StatusLine",
+}
+
+for _, group in ipairs(highlight_groups) do
+    vim.api.nvim_set_hl(0, group, { bg = "NONE", ctermbg = "NONE" })
+end

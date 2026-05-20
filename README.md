@@ -19,11 +19,11 @@
 
 To install paste this to your terminal:
 ```sh 
-YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/heads/master/scripts/Instalation.sh")"
+YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/heads/master/scripts/Instalation.sh")
 ```
 Or, if you just want to update it:
 ```sh
-YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/heads/master/scripts/Update.sh")"
+YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/heads/master/scripts/Update.sh")
 ```
 
 
