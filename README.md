@@ -1,15 +1,9 @@
 <div align="center">
-    <h1>[ Sqyd's neovim ]</h1>
+    <h1>[ my neovim ]</h1>
     <h3></h3>
 </div>
 
-<div align="center">
 
-![Last Commit](https://img.shields.io/github/last-commit/Sqydev/Rices)
-![Repo size](https://img.shields.io/github/repo-size/Sqydev/Rices)
-![Stars](https://img.shields.io/github/stars/Sqydev/Rices)
-
-</div>
 
 <div align="center">
     <h2> Instalation && Updating </h2>
@@ -32,5 +26,3 @@ YOUR_SHELL -c "$(curl -Ls "https://raw.githubusercontent.com/Sqydev/Vimfig/refs/
     <h3></h3>
 </div>
 
-![Telescope + Tree + FileOpen](/screenshoots/TelescopeTreeFile.png)
-![Telescope + Tree + FileOpen](/screenshoots/TelescopeTreeFileAshen.png)
