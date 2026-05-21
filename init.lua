@@ -79,7 +79,6 @@
 local highlight_groups = {
     "Normal",
     "NormalNC",
-    "Comment",
     "Constant",
     "Special",
     "Identifier",
