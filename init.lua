@@ -60,8 +60,10 @@
 
 	-- Load Comment
 		spec("Plugins.comment")
+		
+	-- Load my C++ plugins.
 		spec("Plugins.aerial")
-
+		spec("Plugins.lspsaga")
 
 -- "Launch" lazy
 	require("Lazy.lazy")
