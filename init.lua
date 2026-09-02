@@ -65,6 +65,11 @@
 		spec("Plugins.aerial")
 		spec("Plugins.lspsaga")
 
+	-- Git new things added plugin:
+		spec("Plugins.gitsigns")
+		
+		spec("Plugins.indentblankline")
+
 -- "Launch" lazy
 	require("Lazy.lazy")
 
